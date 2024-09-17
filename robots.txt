@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oniantat.github.io/sitemap.html.gz
+Sitemap: https://oniantat.github.io/app/sitemap.html.gz
+Sitemap: https://oniantat.github.io/assets/sitemap.html.gz
+Sitemap: https://oniantat.github.io/css/sitemap.html.gz
+Sitemap: https://oniantat.github.io/includes/sitemap.html.gz
+Sitemap: https://oniantat.github.io/item/sitemap.html.gz
+Sitemap: https://oniantat.github.io/src/sitemap.html.gz
